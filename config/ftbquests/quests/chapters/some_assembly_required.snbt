@@ -1624,54 +1624,6 @@
 			y: 7.25d
 		}
 		{
-			dependencies: ["27A80F018F59EF1E"]
-			description: ["{moni.quest.62C85A1F451C4855.description3}"]
-			id: "3E7250EFBFF03D89"
-			rewards: [{
-				id: "48E6352BC7E3A682"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			size: 1.25d
-			tasks: [{
-				id: "3A145740391DF5FD"
-				item: {
-					Count: 1
-					id: "ad_astra:tier_2_rocket"
-					tag: { }
-				}
-				type: "item"
-			}]
-			x: 14.75d
-			y: 4.75d
-		}
-		{
-			dependencies: [
-				"0B9D5F865C3F8B31"
-				"1349044BF8C04A12"
-			]
-			description: ["{moni.quest.62C85A1F451C4855.description4}"]
-			id: "299CCE5C8C2219C8"
-			rewards: [{
-				id: "4AEACF669F40EC9B"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "415F24B92C756DBE"
-				item: {
-					Count: 1
-					id: "ad_astra:tier_3_rocket"
-					tag: { }
-				}
-				type: "item"
-			}]
-			x: 8.75d
-			y: 0.75d
-		}
-		{
 			dependencies: [
 				"05F7C3F397B329F5"
 				"3DD8D9EEA7189186"
@@ -1783,10 +1735,7 @@
 			y: -1.75d
 		}
 		{
-			dependencies: [
-				"023197AB7CDBDD6E"
-				"299CCE5C8C2219C8"
-			]
+			dependencies: ["023197AB7CDBDD6E"]
 			dependency_requirement: "one_completed"
 			description: [
 				"{moni.quest.1BADB230EB1BEA4D.description1}"

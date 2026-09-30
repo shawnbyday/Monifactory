@@ -146,11 +146,6 @@
                             "tag": "{Fluid:{Amount:23,FluidName:\"gtceu:propane\"}}"
                         }
                     ]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "telepastries:lost_city_cake",
-                    "weight": 1
                 }
             ]
         },

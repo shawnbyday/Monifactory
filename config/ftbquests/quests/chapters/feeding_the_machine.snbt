@@ -1677,27 +1677,6 @@
 			y: 7.25d
 		}
 		{
-			dependencies: ["1CC092A2F2CD4589"]
-			description: [
-				"{moni.quest.77DB862BCC7BF6A5.description1}"
-				""
-				"{moni.quest.62C85A1F451C4855.description5}"
-			]
-			id: "77DB862BCC7BF6A5"
-			shape: "hexagon"
-			tasks: [{
-				id: "7F9D02412182850B"
-				item: {
-					Count: 1
-					id: "ad_astra:tier_4_rocket"
-					tag: { }
-				}
-				type: "item"
-			}]
-			x: 5.75d
-			y: 0.25d
-		}
-		{
 			dependencies: ["4261BDA34D716EC8"]
 			description: [
 				"{moni.quest.61301FBD825F8280.description1}"

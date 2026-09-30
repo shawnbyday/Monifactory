@@ -29,19 +29,6 @@ ServerEvents.recipes(event => {
         K: "gtceu:gold_dust"
     })
 
-    // Void Cake
-    event.shaped("telepastries:custom_cake", [
-        "ABC",
-        "DED",
-        "FFF"
-    ], {
-        A: "gtceu:restonia_gem",
-        B: "gtceu:palis_gem",
-        C: "gtceu:emeradic_gem",
-        D: "kubejs:pulsating_dust",
-        E: "enderio:cake_base",
-        F: "gtceu:aluminium_plate"
-    })
     if (doHNN) {
         event.shaped("telepastries:nether_cake", [
             "NNN",

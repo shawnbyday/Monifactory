@@ -91,11 +91,6 @@
 			id: "66FCC26399376B55"
 			rewards: [
 				{
-					id: "031A59BA80B8796A"
-					item: "telepastries:custom_cake"
-					type: "item"
-				}
-				{
 					id: "12BD64A82DB08429"
 					item: "telepastries:overworld_cake"
 					type: "item"

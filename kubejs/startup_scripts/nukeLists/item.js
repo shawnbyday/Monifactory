@@ -98,6 +98,9 @@ global.itemNukeList = [
     "endertanks:ender_bucket",
     "enderchests:ender_bag",
 
+    // Ex Deorum
+    "exdeorum:end_cake",
+
     // ExtendedAE
     "expatternprovider:silicon_block",
     "expatternprovider:circuit_cutter",
@@ -263,6 +266,8 @@ global.itemNukeList = [
     "telepastries:custom_cake2",
     "telepastries:custom_cake3",
     "telepastries:twilight_cake",
+    "telepastries:custom_cake",
+    "telepastries:lost_city_cake",
 
     // Thermal Series
     "thermal:apatite",

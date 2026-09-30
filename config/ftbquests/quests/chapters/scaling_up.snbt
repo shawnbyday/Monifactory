@@ -2984,57 +2984,6 @@
 			y: -3.25d
 		}
 		{
-			dependencies: ["11154356854B64DA"]
-			description: [
-				"{moni.quest.059A9B12C8478025.description1}"
-				""
-				"[\"\",{\"translate\":\"moni.quest.059A9B12C8478025.rich_description1\"},{\"underlined\":true,\"translate\":\"moni.quest.059A9B12C8478025.rich_description2\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4672EE66D51C32FF\"}},{\"translate\":\"moni.quest.059A9B12C8478025.rich_description3\"}]"
-			]
-			icon: "ad_astra:oxygen_distributor"
-			id: "059A9B12C8478025"
-			rewards: [{
-				id: "62FD649920864137"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [
-				{
-					count: 16L
-					id: "2C7FA22F196AD3AD"
-					item: { Count: 16, id: "gtceu:double_titanium_plate" }
-					type: "item"
-				}
-				{
-					count: 8L
-					id: "16A56B62395607C9"
-					item: {
-						Count: 8
-						id: "itemfilters:tag"
-						tag: {
-							value: "gtceu:circuits/ev"
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 4L
-					id: "09CCE89FB8D6FD03"
-					item: { Count: 4, id: "gtceu:ev_robot_arm" }
-					type: "item"
-				}
-				{
-					count: 2L
-					id: "31BF9A11512D0FAE"
-					item: { Count: 2, id: "gtceu:ev_emitter" }
-					type: "item"
-				}
-			]
-			title: "{moni.quest.059A9B12C8478025.title}"
-			x: -3.75d
-			y: -6.5d
-		}
-		{
 			dependencies: ["6D434F3B0E720A5A"]
 			description: [
 				"{moni.quest.60B16BB064E2FF4C.description1}"

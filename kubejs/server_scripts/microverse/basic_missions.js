@@ -125,7 +125,6 @@ ServerEvents.recipes(event => {
             .requiredMicroverse(1) // Normal
             .itemOutputs(
                 "32x gtceu:raw_molybdenite",
-                "32x ad_astra:moon_sand",
                 "24x gtceu:raw_dilithium",
                 "32x gtceu:raw_fluorite",
             )

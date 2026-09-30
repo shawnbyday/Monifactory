@@ -66,13 +66,4 @@ ServerEvents.recipes(event => {
 
     DimensionalRockCrushing("minecraft", "end_stone", GTValues.VA[GTValues.IV], "minecraft:the_end")
     DimensionalRockCrushing("minecraft", "netherrack", GTValues.VA[GTValues.EV], "minecraft:the_nether", "kubejs:molten_cryotheum")
-    DimensionalRockCrushing("ad_astra", "moon_stone", GTValues.VHA[GTValues.HV], "ad_astra:moon")
-    DimensionalRockCrushing("ad_astra", "moon_deepslate", GTValues.VHA[GTValues.HV], "ad_astra:moon")
-    DimensionalRockCrushing("ad_astra", "mars_stone", GTValues.VHA[GTValues.HV], "ad_astra:mars")
-    DimensionalRockCrushing("ad_astra", "conglomerate", GTValues.VHA[GTValues.HV], "ad_astra:mars")
-    DimensionalRockCrushing("ad_astra", "venus_stone", GTValues.VHA[GTValues.EV], "ad_astra:venus")
-    DimensionalRockCrushing("ad_astra", "infernal_spire_block", GTValues.VHA[GTValues.EV], "ad_astra:venus")
-    DimensionalRockCrushing("ad_astra", "mercury_stone", GTValues.VHA[GTValues.EV], "ad_astra:mercury")
-    DimensionalRockCrushing("ad_astra", "glacio_stone", GTValues.VHA[GTValues.IV], "ad_astra:glacio")
-    DimensionalRockCrushing("ad_astra", "permafrost", GTValues.VHA[GTValues.IV], "ad_astra:glacio")
 })
