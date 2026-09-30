@@ -220,3 +220,8 @@ kubejs/assets/gtceu/textures/item/material_sets/infinity/infinity_plate.xcf
 
 # Downloadable dependencies
 **/node_modules
+/config/embeddium++.toml
+/config/embeddium-options.json
+/config/jade/plugins.json
+/config/telepastries-common.toml
+/config/defaultworldtype/biomes.txt
