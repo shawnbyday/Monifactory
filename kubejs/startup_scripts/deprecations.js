@@ -89,9 +89,6 @@ deprecateItem("gtceu:raw_osmiridiumyes", "gtceu:raw_iridosmine", "Raw Osmiridium
 deprecateItem("gtceu:iridosmineyes_dust", "gtceu:osmiridium_dust", "Iridosmine Dust")
 deprecateItem("gtceu:osmiridiumyes_dust", "gtceu:iridosmine_dust", "Osmiridium Dust")
 
-deprecateBlock("gtceu:glacio_iridosmineyes_ore", "gtceu:glacio_osmiridium_ore", "Glacio Iridosmine Ore")
-deprecateBlock("gtceu:glacio_osmiridiumyes_ore", "gtceu:glacio_iridosmine_ore", "Glacio Osmiridium Ore")
-
 // Chlorine Trifluoride
 deprecateFluid("gtceu:chlorine_triflouride", "gtceu:chlorine_trifluoride", "Chlorine Trifluoride")
 
