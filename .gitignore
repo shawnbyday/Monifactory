@@ -71,11 +71,6 @@ config/defaultworldtype/world-presets.txt
 /config/jade/*
 !/config/jade/jade.json
 
-# Lost cities
-!/config/lostcities
-/config/lostcities/profiles/*
-!/config/lostcities/profiles/monidefault.json
-
 # NCN
 !/config/NuclearCraft
 /config/NuclearCraft/*

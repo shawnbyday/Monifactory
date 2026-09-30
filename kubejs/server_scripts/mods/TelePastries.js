@@ -29,16 +29,6 @@ ServerEvents.recipes(event => {
         K: "gtceu:gold_dust"
     })
 
-    event.shaped("telepastries:lost_city_cake", [
-        "NNN",
-        "SBS",
-        "SSS"
-    ], {
-        N: "minecraft:redstone",
-        B: "enderio:cake_base",
-        S: "minecraft:diamond",
-    })
-
     // Void Cake
     event.shaped("telepastries:custom_cake", [
         "ABC",

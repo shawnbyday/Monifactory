@@ -40,9 +40,9 @@
 	#Set the refill items used by the Twilight Forest Cake (Only change if you know what you're doing) [modid:itemname]
 	TwilightCakeRefillItems = ["minecraft:diamond"]
 	#Defines if the Lost Cities Cake gets partly consumed when eaten [default: true]
-	consumeLostCitiesCake = true
+	#consumeLostCitiesCake = true
 	#Set the refill items used by the Lost Cities Cake (Only change if you know what you're doing) [modid:itemname]
-	lostCitiesCakeRefillItem = ["minecraft:diamond"]
+	#lostCitiesCakeRefillItem = ["minecraft:diamond"]
 
 #Custom Cake settings
 [CustomCake]

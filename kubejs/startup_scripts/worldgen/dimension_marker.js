@@ -9,12 +9,6 @@ GTCEuStartupEvents.registry("gtceu:dimension_marker", event => {
         .tier(0)
         .overrideName("Void Dimension")
 
-    // Lost Cities
-    event.create("lostcities:lostcity")
-        .iconSupplier(() => Item.of("telepastries:lost_city_cake").getItem())
-        .tier(0)
-        .overrideName("Lost Cities")
-
     // Ad Astra dimensions
     event.create("ad_astra:moon")
         .iconSupplier(() => Item.of("ad_astra:moon_globe").getItem())
